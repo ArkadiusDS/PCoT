@@ -1,5 +1,23 @@
 # PCoT: Persuasion-Augmented Chain of Thought for Detecting Fake News and Social Media Disinformation
 
+## Citation
+
+```bibtex
+@inproceedings{modzelewski-etal-2025-pcot,
+    title = "{PC}o{T}: Persuasion-Augmented Chain of Thought for Detecting Fake News and Social Media Disinformation",
+    author = "Modzelewski, Arkadiusz  and
+      Sosnowski, Witold  and
+      Labruna, Tiziano  and
+      Wierzbicki, Adam  and
+      Da San Martino, Giovanni",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.1215/"
+}
+```
 ## Overview
 This repository contains the implementation of **Persuasion-Augmented Chain of Thought (PCoT)**, a method that enhances zero-shot disinformation detection using Large Language Models (LLMs) by incorporating persuasion knowledge.
 
@@ -81,25 +99,6 @@ PCoT consists of two stages:
 
 For more details, refer to the paper.
 
-
-## Citation
-
-```bibtex
-@inproceedings{modzelewski-etal-2025-pcot,
-    title = "{PC}o{T}: Persuasion-Augmented Chain of Thought for Detecting Fake News and Social Media Disinformation",
-    author = "Modzelewski, Arkadiusz  and
-      Sosnowski, Witold  and
-      Labruna, Tiziano  and
-      Wierzbicki, Adam  and
-      Da San Martino, Giovanni",
-    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
-    month = jul,
-    year = "2025",
-    address = "Vienna, Austria",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2025.acl-long.1215/"
-}
-```
 
 ## License
 This codebase is licensed under the terms of the MIT License. 
